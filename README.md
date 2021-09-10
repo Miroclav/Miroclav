@@ -1,11 +1,9 @@
 ## Мой профиль
+### О себе 
 
-
-
-
-
-
-
+```
+Изучаю JS более года 
+```
 
 ### Мой стек технологий
 ![](html.png)  ![](css.png)  ![](sass.png)  ![](js.png)  ![](react.png) ![](vue.png)  ![](gulp.png)  ![](webpack.png)
