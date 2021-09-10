@@ -1,8 +1,7 @@
 ## Мой профиль
 ---
 ### Мой стек технологий
-
- HTML ![](html.png) ![](css.png)  ![](js.png)  ![](react.png)  ![](.png)
+![](html.png)  ![](css.png)  ![](sass.png)  ![](js.png)  ![](react.png) ![](vue.png)  ![gulp.png](.png)  ![](webpack.png)
 
 ### Контакты:
 
