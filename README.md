@@ -2,7 +2,7 @@
 ---
 ### Мой стек технологий
 
- ![HTML](html.png)! ![](css.png)  [](js.png)!  [](react.png)  ![](.png)
+ HTML ![](html.png) ![](css.png)  ![](js.png)  ![](react.png)  ![](.png)
 
 ### Контакты:
 
