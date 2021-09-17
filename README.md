@@ -4,7 +4,8 @@
 
 ### Мой стек технологий
 * ![](html.png)  ![](css.png)  ![](sass.png)  
-* ![](js.png) >> ![](react.png) ![](vue.png) ___- основы___
+* ![](js.png) 
+>> ![](react.png) ![](vue.png) ___- основы___
 
 ** ![](gulp.png)  ![](webpack.png)
 
