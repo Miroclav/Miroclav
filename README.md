@@ -4,19 +4,19 @@
 
 ### Мой стек технологий
 * ![](html.png)  ![](css.png)  ![](sass.png)  
-* ![](js.png) > ![](react.png) ![](vue.png) ___- основы___
-
-** ![](gulp.png)  ![](webpack.png)
+* ![](js.png) - уверенное владение 
+* ![](react.png) ![](vue.png) - базовые знания 
+* ![](gulp.png)  ![](webpack.png)
 
 
 ### Мои работы 
 
 #### Html-code:
-  * https://github.com/miroclav/lab-consulting
+  * https://github.com/miroclav/lab-consulting  
     https://miroclav.github.io/lab-consulting/
 
 #### JS-code:
-*  https://github.com/miroclav/budget_calculator
+*  https://github.com/miroclav/budget_calculator  
    http://miroclav.github.io/budget_calculator/
     
 *  https://github.com/miroclav/glazing_site 
