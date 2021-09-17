@@ -1,25 +1,32 @@
 ## Мой профиль
 ### О себе 
 
-```
-Изучаю JS более года 
-```
 
 ### Мой стек технологий
-![](html.png)  ![](css.png)  ![](sass.png)  ![](js.png)  ![](react.png) ![](vue.png)  ![](gulp.png)  ![](webpack.png)
+![](html.png)  ![](css.png)  ![](sass.png)  ![](js.png)    ![](gulp.png)  ![](webpack.png)
+![](react.png) ![](vue.png) ___- основы___
+
+
+### Мои работы 
+
+#### Html-code:
+  https://github.com/miroclav/lab-consulting
+  https://miroclav.github.io/lab-consulting/
+
+#### JS-code:
+  
+  *  https://github.com/miroclav/budget_calculator > 
+     http://miroclav.github.io/budget_calculator/
+    
+  *  https://github.com/miroclav/glazing_site 
+  
+ 
+
+#### React-code:
+  https://github.com/miroclav/react-to-do
 
 ### Контакты:
 
 * Email - mainmir@bk.ru
 * Github - https://github.com/Miroclav
 * Vk - https://vk.com/miroslav_u
-
-### Мои работы 
-
-#### Html-code:
-
-#### JS-code:
-
-#### React-code:
-
-#### Vue-code:
