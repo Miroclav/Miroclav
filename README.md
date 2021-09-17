@@ -10,12 +10,12 @@
 ### Мои работы 
 
 #### Html-code:
-  https://github.com/miroclav/lab-consulting
-  https://miroclav.github.io/lab-consulting/
+  * https://github.com/miroclav/lab-consulting
+    https://miroclav.github.io/lab-consulting/
 
 #### JS-code:
   
-  *  https://github.com/miroclav/budget_calculator > 
+   >> *  https://github.com/miroclav/budget_calculator
      http://miroclav.github.io/budget_calculator/
     
   *  https://github.com/miroclav/glazing_site 
@@ -27,6 +27,8 @@
 
 ### Контакты:
 
-* Email - mainmir@bk.ru
+* Telegram - https://t.me/miros_lav
 * Github - https://github.com/Miroclav
 * Vk - https://vk.com/miroslav_u
+* Email - mainmir@bk.ru
+
