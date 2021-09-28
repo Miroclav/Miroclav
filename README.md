@@ -19,6 +19,7 @@
 *  https://github.com/miroclav/glazing_site 
 *  https://github.com/miroclav/quiz
 *  https://github.com/miroclav/food-dist
+*  https://github.com/miroclav/planner
 
 #### React-code:
 *  https://github.com/miroclav/react-to-do
