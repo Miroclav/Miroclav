@@ -3,9 +3,8 @@
 
 
 ### Мой стек технологий
-* ![](html.png)  ![](css.png)  ![](sass.png)  
-* ![](js.png) - УВЕРЕННОЕ ВЛАДЕНИЕ 
-* ![](react.png) ![](vue.png) - БАЗОВЫЕ ЗНАНИЯ  
+* ![](html.png)  ![](css.png)  ![](sass.png)    
+* ![](js.png) ![](react.png) ![](vue.png)   
 * ![](gulp.png)  ![](webpack.png)
 
 
