@@ -13,11 +13,9 @@
 
 #### Html-code:
   * https://github.com/miroclav/lab-consulting  
-    https://miroclav.github.io/lab-consulting/
 
 #### JS-code:
 *  https://github.com/miroclav/budget_calculator  
-   http://miroclav.github.io/budget_calculator/  
    
 *  https://github.com/miroclav/glazing_site 
   
