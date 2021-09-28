@@ -12,14 +12,13 @@
 ### Мои работы 
 
 #### Html-code:
-  * https://github.com/miroclav/lab-consulting  
+* https://github.com/miroclav/lab-consulting  
 
 #### JS-code:
 *  https://github.com/miroclav/budget_calculator  
-   
 *  https://github.com/miroclav/glazing_site 
-  
- 
+*  https://github.com/miroclav/quiz
+*  https://github.com/miroclav/food-dist
 
 #### React-code:
   https://github.com/miroclav/react-to-do
