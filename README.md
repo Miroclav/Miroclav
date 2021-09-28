@@ -21,7 +21,7 @@
 *  https://github.com/miroclav/food-dist
 
 #### React-code:
-  https://github.com/miroclav/react-to-do
+*  https://github.com/miroclav/react-to-do
 
 ### Контакты:
 
