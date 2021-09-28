@@ -4,8 +4,8 @@
 
 ### Мой стек технологий
 * ![](html.png)  ![](css.png)  ![](sass.png)  
-* ![](js.png) - уверенное владение 
-* ![](react.png) ![](vue.png) - базовые знания 
+* ![](js.png) - УВЕРЕННОЕ ВЛАДЕНИЕ 
+* ![](react.png) ![](vue.png) - БАЗОВЫЕ ЗНАНИЯ  
 * ![](gulp.png)  ![](webpack.png)
 
 
@@ -17,8 +17,8 @@
 
 #### JS-code:
 *  https://github.com/miroclav/budget_calculator  
-   http://miroclav.github.io/budget_calculator/
-    
+   http://miroclav.github.io/budget_calculator/  
+   
 *  https://github.com/miroclav/glazing_site 
   
  
