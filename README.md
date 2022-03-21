@@ -17,8 +17,7 @@
 *  https://github.com/miroclav/quiz
 ##
 *  https://github.com/miroclav/food-dist  
-*  preview: https://miroclav.github.io/food-dist/
-##
+*  preview: https://miroclav.github.io/food-dist/ ##
 
 *  https://github.com/miroclav/planner
 *  preview: https://planner-pi.vercel.app/
