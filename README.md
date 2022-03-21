@@ -1,6 +1,4 @@
 ## Мой профиль
-### О себе 
-
 
 ### Мой стек технологий
 * ![](html.png)  ![](css.png)  ![](sass.png)    
@@ -30,5 +28,5 @@
 * Telegram - https://t.me/miros_lav
 * Github - https://github.com/Miroclav
 * Vk - https://vk.com/miroslav_u
-* Email - mainmir@bk.ru
+* Email - mirautkin@gmail.com
 
