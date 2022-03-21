@@ -15,7 +15,9 @@
 *  https://github.com/miroclav/budget_calculator  
 *  https://github.com/miroclav/glazing_site 
 *  https://github.com/miroclav/quiz
+##
 *  https://github.com/miroclav/food-dist  
+*  preview: https://miroclav.github.io/food-dist/
 ##
 
 *  https://github.com/miroclav/planner
@@ -23,6 +25,7 @@
 
 #### React-code:
 *  https://github.com/miroclav/react-to-do
+*  preview: https://react-to-do-kappa.vercel.app/
 
 ### Контакты:
 
