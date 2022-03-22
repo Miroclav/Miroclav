@@ -7,10 +7,8 @@
 
 #### Html-code:
 * https://github.com/miroclav/lab-consulting  
-* preview: https://miroclav.github.io/lab-consulting/
-
----
-
+* preview: https://miroclav.github.io/lab-consulting/  
+##
 #### JS-code:
 *  https://github.com/miroclav/budget_calc  
 *  preview: https://budget-calc-rho.vercel.app/
@@ -27,16 +25,12 @@
 *  https://github.com/miroclav/planner
 *  preview: https://planner-pi.vercel.app/
 ##
-
----
-
 #### React-code:
 *  https://github.com/miroclav/react-to-do
 *  preview: https://react-to-do-kappa.vercel.app/
 
-### Контакты:
-
 ---
+### Контакты:
 
 * Telegram - https://t.me/miros_lav
 * Github - https://github.com/Miroclav
