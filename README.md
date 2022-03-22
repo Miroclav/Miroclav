@@ -16,7 +16,7 @@
 *  preview: https://st-balcon.vercel.app/
 ##
 *  https://github.com/miroclav/quiz
-*  preview: https://quiz.vercel.app/
+*  preview: https://quiz-ruddy-chi.vercel.app/
 ##
 *  https://github.com/miroclav/food-dist  
 *  preview: https://miroclav.github.io/food-dist/
