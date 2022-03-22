@@ -10,6 +10,7 @@
 
 #### JS-code:
 *  https://github.com/miroclav/budget_calculator  
+*  preview: https://budget-calculator-bajsohie6-mirautkin-gmailcom.vercel.app/
 ##
 *  https://github.com/miroclav/glazing_site
 ##
