@@ -1,5 +1,5 @@
 ### Мой стек технологий  
-![](html.png)  ![](css.png)  ![](sass.png)  ![](js.png) ![](react.png) ![](vue.png)  ![](gulp.png)  ![](webpack.png)
+![](html.png)  ![](css.png)  ![](sass.png) *  ![](js.png) ![](react.png) ![](vue.png) *  ![](gulp.png)  ![](webpack.png)
 
 
 ### Мои работы 
@@ -10,7 +10,7 @@
 
 #### JS-code:
 *  https://github.com/miroclav/budget_calculator  
-*  preview: https://budget-calculator-bajsohie6-mirautkin-gmailcom.vercel.app/
+*  preview: https://budget-calculator-two.vercel.app/
 ##
 *  https://github.com/miroclav/glazing_site
 ##
