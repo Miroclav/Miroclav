@@ -26,7 +26,7 @@
 ##
 #### React-code:
 *  https://github.com/miroclav/react-to-do
-*  preview: https://react-to-do.vercel.app/
+*  preview: https://react-to-do-kappa.vercel.app/
 
 ### Контакты:
 
