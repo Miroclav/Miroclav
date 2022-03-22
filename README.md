@@ -9,23 +9,24 @@
 * preview: https://miroclav.github.io/lab-consulting/
 
 #### JS-code:
-*  https://github.com/miroclav/budget_calculator  
-*  preview: https://budget-calculator-two.vercel.app/
+*  https://github.com/miroclav/budget_calc  
+*  preview: https://budget-calc.vercel.app/
 ##
-*  https://github.com/miroclav/glazing_site
+*  https://github.com/miroclav/st-balcon/
+*  preview: https://st-balcon.vercel.app/
 ##
 *  https://github.com/miroclav/quiz
-*  preview: https://quiz-ruddy-chi.vercel.app/
+*  preview: https://quiz.vercel.app/
 ##
 *  https://github.com/miroclav/food-dist  
 *  preview: https://miroclav.github.io/food-dist/
 ##
 *  https://github.com/miroclav/planner
-*  preview: https://planner-pi.vercel.app/
+*  preview: https://planner.vercel.app/
 ##
 #### React-code:
 *  https://github.com/miroclav/react-to-do
-*  preview: https://react-to-do-kappa.vercel.app/
+*  preview: https://react-to-do.vercel.app/
 
 ### Контакты:
 
