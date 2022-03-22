@@ -10,9 +10,11 @@
 
 #### JS-code:
 *  https://github.com/miroclav/budget_calculator  
----
-*  https://github.com/miroclav/glazing_site 
+##
+*  https://github.com/miroclav/glazing_site
+##
 *  https://github.com/miroclav/quiz
+*  preview: https://quiz-ruddy-chi.vercel.app/
 ##
 *  https://github.com/miroclav/food-dist  
 *  preview: https://miroclav.github.io/food-dist/
