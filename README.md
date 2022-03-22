@@ -10,7 +10,7 @@
 
 #### JS-code:
 *  https://github.com/miroclav/budget_calc  
-*  preview: https://budget-calc.vercel.app/
+*  https://budget-calc-rho.vercel.app/
 ##
 *  https://github.com/miroclav/st-balcon/
 *  preview: https://st-balcon.vercel.app/
