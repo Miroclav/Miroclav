@@ -22,7 +22,7 @@
 *  preview: https://miroclav.github.io/food-dist/
 ##
 *  https://github.com/miroclav/planner
-*  preview: https://planner.vercel.app/
+*  preview: https://planner-pi.vercel.app/
 ##
 #### React-code:
 *  https://github.com/miroclav/react-to-do
