@@ -28,13 +28,12 @@
 *  preview: https://planner-pi.vercel.app/
 ##
 #### React-code:
-  - marvel project:
+marvel project:
 *  preview: https://mimimi-marvel-project.mdbgo.io/
 
 *  https://github.com/miroclav/react-to-do
 *  preview: https://react-to-do-kappa.vercel.app/
 
-marvel 
 
 ---
 ### Контакты:
