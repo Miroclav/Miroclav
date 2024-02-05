@@ -3,21 +3,8 @@
 
 ---
 
-![https://github.com/miroclav](https://img.shields.io/badge/-GitHub-1c2128??style=flat&logo=appveyor=github)
-
 ### Мои работы 
 
-#### Html-code:
-* https://github.com/miroclav/lab-consulting  
-* preview: https://miroclav.github.io/lab-consulting/  
-##
-#### JS-code:
-*  https://github.com/miroclav/budget_calc  
-*  preview: https://budget-calc-rho.vercel.app/
-##
-*  https://github.com/miroclav/st-balcon/
-*  preview: https://st-balcon.vercel.app/
-##
 *  https://github.com/miroclav/quiz
 *  preview: https://quiz-ruddy-chi.vercel.app/
 ##
