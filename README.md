@@ -13,7 +13,7 @@
 ##
 * https://github.com/miroclav/st-balcon/
 * preview: https://st-balcon.vercel.app/
-* ##
+##
 *  https://github.com/miroclav/planner
 *  preview: https://planner-pi.vercel.app/
 ##
