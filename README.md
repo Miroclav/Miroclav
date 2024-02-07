@@ -1,5 +1,5 @@
 ### Мой стек технологий  
-![](html.png)  ![](css.png)  ![](sass.png)  ![](js.png) ![](react.png) ![](vue.png)   ![](gulp.png)  ![](webpack.png)
+![](html.png)  ![](css.png)  ![](sass.png)  ![](js.png) ![](react.png) ![](vue.png)   ![](https://logospng.org/download/vite-js/vite-js-256-logo.png)  ![](webpack.png)
 
 ---
 
@@ -29,7 +29,6 @@ marvel project:
 ### Контакты:
 
 * Telegram - https://t.me/miros_lav
-* Github - https://github.com/Miroclav
-* Vk - https://vk.com/miroslav_u
+* Github - https://github.com/miroclav
 * Email - mirautkin@gmail.com
 
