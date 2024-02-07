@@ -1,5 +1,5 @@
 ### Мой стек технологий  
-![](html.png)  ![](css.png)  ![](sass.png)  ![](js.png) ![](react.png) ![](vue.png)   ![](https://logospng.org/download/vite-js/vite-js-256-logo.png)  ![](webpack.png)
+![](html.png)  ![](css.png)  ![](sass.png)  ![](js.png) ![](react.png) ![](vue.png) ![](webpack.png)
 
 ---
 
