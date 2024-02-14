@@ -5,10 +5,10 @@
 
 ### Мои работы 
 ## Магазин кроссовок
-* просмотр: sneakers-shop-2sfv3bq8x-mirautkin-gmailcom.vercel.app
+* просмотр: https://sneakers-shop-2sfv3bq8x-mirautkin-gmailcom.vercel.app
 * code: https://github.com/miroclav/sneakers-shop
 * описание: https://github.com/miroclav/sneakers-shop/blob/main/README.md
-№№
+##
 *  https://github.com/miroclav/quiz
 *  preview: https://quiz-ruddy-chi.vercel.app/
 ##
