@@ -9,6 +9,13 @@
 * code: https://github.com/miroclav/sneakers-shop
 * описание: https://github.com/miroclav/sneakers-shop/blob/main/README.md
 ##
+
+## Dashboard Dark Theme
+* просмотр: [[https://sneakers-shop-2sfv3bq8x-mirautkin-gmailcom.vercel.app](https://dashboard-themes.vercel.app/)](https://sneakers-shop-delta-seven.vercel.app/)
+* code: https://github.com/miroclav/dashboard-themes
+* Реализвана светлая и темная тема
+##
+
 *  https://github.com/miroclav/quiz
 *  preview: https://quiz-ruddy-chi.vercel.app/
 ##
