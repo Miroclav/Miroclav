@@ -11,7 +11,7 @@
 ##
 
 ## Dashboard Dark Theme
-* просмотр: [[https://sneakers-shop-2sfv3bq8x-mirautkin-gmailcom.vercel.app](https://dashboard-themes.vercel.app/)](https://sneakers-shop-delta-seven.vercel.app/)
+* просмотр: [https://sneakers-shop-2sfv3bq8x-mirautkin-gmailcom.vercel.app](https://dashboard-themes.vercel.app/)
 * code: https://github.com/miroclav/dashboard-themes
 * Реализвана светлая и темная тема
 ##
